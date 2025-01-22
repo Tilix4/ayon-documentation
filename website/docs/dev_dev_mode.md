@@ -98,5 +98,5 @@ Start AYON launcher with `--use-dev` argument. This will automatically pick the 
 AYON launcher will then use code from the location we've defined, rather than downloading it from the server installed version. Try to do changes in the addon locally, restart AYON launcher and validate if changes are propagated.
 
 :::note
-It is possible to use dev bundle even if it is not assigned to the user. In that case replace argument `--use-dev` with `--bundle <deb bundle name>`.
+It is possible to use dev bundle even if it is not assigned to the user. In that case replace argument `--use-dev` with `--bundle <dev bundle name>`.
 :::
